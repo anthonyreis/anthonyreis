@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anthonyreis&show_icons=true&count_private=true&theme=radical)
 
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=anthonyreis&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy) -->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyreis&hide=html,css&layout=compact&theme=dark)](https://github.com/anthonyreis/github-readme-stats)
