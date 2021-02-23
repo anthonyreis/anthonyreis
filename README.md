@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=anthonyreis&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyreis&hide=html,css&layout=compact&theme=dark)](https://github.com/anthonyreis/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyreis&hide=html,css,handlebars&layout=compact&theme=dark)](https://github.com/anthonyreis/github-readme-stats)
