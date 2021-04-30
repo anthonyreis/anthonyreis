@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanthonyreis%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=reddit.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anthonyreis&show_icons=true&count_private=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anthonyreis&show_icons=true&count_private=true&theme=radical)
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=anthonyreis&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy) -->
 
